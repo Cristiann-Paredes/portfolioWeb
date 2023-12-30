@@ -26,7 +26,9 @@
 ![imagen](https://github.com/Ruizerick26/portafolio/assets/117743844/ba6b6f2c-9b04-4f97-9315-3f8f054d647d)
 
 ## Capturas Registro de usuario y login del usuario
-![WhatsApp Image 2023-12-22 at 09 47 13](https://github.com/Morales-Gilmar-Vladimir/Project1/assets/117743690/ca738912-171f-4d13-90e9-34dd727da9c7)
+
+![image](https://github.com/cristian-simba/app-web-project/assets/117742977/1212d6ee-d351-4dfc-8981-85a3adb1ed1b)
+![image](https://github.com/cristian-simba/app-web-project/assets/117742977/98dcdda8-d39c-49f7-941f-785d7d05f1e4)
 
 ## Capturas Claudinary Imagenes
 ![WhatsApp Image 2023-12-22 at 09 54 11](https://github.com/Morales-Gilmar-Vladimir/Project1/assets/117743690/ece94aed-1ebb-4e81-a53e-98c052fda00f)
