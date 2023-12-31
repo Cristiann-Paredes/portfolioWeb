@@ -19,9 +19,10 @@
 
 
 ## Capturas CRUD
+![image](https://github.com/Cristiann-Paredes/portfolioWeb/assets/117744113/d5d18df5-4db8-4f79-8a2e-8b7f37eae379)
 ![imagen](https://github.com/Ruizerick26/portafolio/assets/117743844/94d6da96-2109-4aec-8a4b-a28169f40d8f)
 ![imagen](https://github.com/Ruizerick26/portafolio/assets/117743844/4afba427-8812-48ed-9fc7-72f35b0abaf0)
-![imagen](https://github.com/Ruizerick26/portafolio/assets/117743844/e8dd92ec-2f89-4514-a0d8-da1a6cfbeb47)
+![image](https://github.com/Cristiann-Paredes/portfolioWeb/assets/117744113/601296fe-83d3-46da-9820-fd36ffe709eb)
 ![imagen](https://github.com/Ruizerick26/portafolio/assets/117743844/ba6b6f2c-9b04-4f97-9315-3f8f054d647d)
 
 ## Capturas Registro de usuario y login del usuario
