@@ -6,7 +6,10 @@
 
 
 ## Capturas Creación de rutas
+
+![image](https://github.com/Cristiann-Paredes/portfolioWeb/assets/117744113/195e0f5b-738a-4350-9741-5b2dfbcff17b)
 ![imagen](https://github.com/Ruizerick26/portafolio/assets/117743844/ebd8980f-333b-4524-9976-f935b709cf4f)
+![image](https://github.com/Cristiann-Paredes/portfolioWeb/assets/117744113/e3e23681-96cc-4664-a938-1bf2b5fcfc35)
 ![imagen](https://github.com/Ruizerick26/portafolio/assets/117743844/f18fe31f-8d1f-4a44-ae22-ddf419f44826)
 ![imagen](https://github.com/Ruizerick26/portafolio/assets/117743844/81df21ff-436b-45ec-9a38-e44342ffd01b)
 ![imagen](https://github.com/Ruizerick26/portafolio/assets/117743844/8d7a3fd3-e61e-4134-b662-4a5a5b9c102c)
@@ -26,7 +29,7 @@
 ![imagen](https://github.com/Ruizerick26/portafolio/assets/117743844/ba6b6f2c-9b04-4f97-9315-3f8f054d647d)
 
 ## Capturas Registro de usuario y login del usuario
-
+![image](https://github.com/Cristiann-Paredes/portfolioWeb/assets/117744113/2bb3c3c9-0f1c-433d-afc5-53859f67bbbd)
 ![image](https://github.com/cristian-simba/app-web-project/assets/117742977/1212d6ee-d351-4dfc-8981-85a3adb1ed1b)
 ![image](https://github.com/cristian-simba/app-web-project/assets/117742977/98dcdda8-d39c-49f7-941f-785d7d05f1e4)
 
