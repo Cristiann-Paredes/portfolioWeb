@@ -9,7 +9,6 @@
 
 ![image](https://github.com/Cristiann-Paredes/portfolioWeb/assets/117744113/195e0f5b-738a-4350-9741-5b2dfbcff17b)
 ![image](https://github.com/Cristiann-Paredes/portfolioWeb/assets/117744113/e3e23681-96cc-4664-a938-1bf2b5fcfc35)
-![imagen](https://github.com/Ruizerick26/portafolio/assets/117743844/f18fe31f-8d1f-4a44-ae22-ddf419f44826)
 ![imagen](https://github.com/Ruizerick26/portafolio/assets/117743844/81df21ff-436b-45ec-9a38-e44342ffd01b)
 ![imagen](https://github.com/Ruizerick26/portafolio/assets/117743844/8d7a3fd3-e61e-4134-b662-4a5a5b9c102c)
 ![imagen](https://github.com/Ruizerick26/portafolio/assets/117743844/6d5e5617-ebc2-4dfc-aa2a-a1b44fac8638)
